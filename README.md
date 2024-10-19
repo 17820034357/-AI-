@@ -5,7 +5,7 @@
 
 ## 原理
 
-![原理图1-压缩](https://github.com/user-attachments/assets/82dea292-59fb-4c0d-b5df-91b346267e6c)
+![原理图1-压缩](https://github.com/17820034357/-AI-/blob/main/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%92%8C%E5%BD%A9%E7%BA%B8/%E5%8E%9F%E7%90%86%E5%9B%BE.png)
 
 目标：机械臂+大模型+多姿态+语音识别，能看图识物、听懂指令、精准执行任务
 
